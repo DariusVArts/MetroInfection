@@ -1475,6 +1475,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ba33ffc6798c2db4c875da03b3a52556, type: 3}
   m_PrefabInstance: {fileID: 399943119}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &408856865
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 4f7db0e5f35871744a9ee80dde8c1776, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 45.24761
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4f7db0e5f35871744a9ee80dde8c1776, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4f7db0e5f35871744a9ee80dde8c1776, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.7030582
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4f7db0e5f35871744a9ee80dde8c1776, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4f7db0e5f35871744a9ee80dde8c1776, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4f7db0e5f35871744a9ee80dde8c1776, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4f7db0e5f35871744a9ee80dde8c1776, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4f7db0e5f35871744a9ee80dde8c1776, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4f7db0e5f35871744a9ee80dde8c1776, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4f7db0e5f35871744a9ee80dde8c1776, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4f7db0e5f35871744a9ee80dde8c1776, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_char_gringo_Anim_Die01_Bake_v002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4f7db0e5f35871744a9ee80dde8c1776, type: 3}
 --- !u!1001 &464417372
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1698,6 +1755,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4379849aa447705438b40baf03a4fb0b, type: 3}
   m_PrefabInstance: {fileID: 499288505}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &499799447
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e1562fc25a0b34a49ab2776d4a0cb62f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 51.587734
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1562fc25a0b34a49ab2776d4a0cb62f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1562fc25a0b34a49ab2776d4a0cb62f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.402318
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1562fc25a0b34a49ab2776d4a0cb62f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1562fc25a0b34a49ab2776d4a0cb62f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1562fc25a0b34a49ab2776d4a0cb62f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1562fc25a0b34a49ab2776d4a0cb62f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1562fc25a0b34a49ab2776d4a0cb62f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1562fc25a0b34a49ab2776d4a0cb62f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e1562fc25a0b34a49ab2776d4a0cb62f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e1562fc25a0b34a49ab2776d4a0cb62f, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_char_gringo_Anim_BrokenGlass_V02
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e1562fc25a0b34a49ab2776d4a0cb62f, type: 3}
 --- !u!1 &505702789
 GameObject:
   m_ObjectHideFlags: 0
@@ -1737,6 +1851,63 @@ Transform:
   - {fileID: 7823694312774259421}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &527994335
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 4b317c3f365cf9d44938eaa85d73d5df, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 53.338448
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b317c3f365cf9d44938eaa85d73d5df, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b317c3f365cf9d44938eaa85d73d5df, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.1854634
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b317c3f365cf9d44938eaa85d73d5df, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b317c3f365cf9d44938eaa85d73d5df, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b317c3f365cf9d44938eaa85d73d5df, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b317c3f365cf9d44938eaa85d73d5df, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b317c3f365cf9d44938eaa85d73d5df, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b317c3f365cf9d44938eaa85d73d5df, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b317c3f365cf9d44938eaa85d73d5df, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4b317c3f365cf9d44938eaa85d73d5df, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_char_gringo_Anim_HeadButt_Bake_V02
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4b317c3f365cf9d44938eaa85d73d5df, type: 3}
 --- !u!1001 &548891160
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3104,6 +3275,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 793589728}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &797612314
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: eb5012b2392cbe444abd29ad44ccb41c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 48.10511
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb5012b2392cbe444abd29ad44ccb41c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb5012b2392cbe444abd29ad44ccb41c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.9671383
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb5012b2392cbe444abd29ad44ccb41c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb5012b2392cbe444abd29ad44ccb41c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb5012b2392cbe444abd29ad44ccb41c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb5012b2392cbe444abd29ad44ccb41c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb5012b2392cbe444abd29ad44ccb41c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb5012b2392cbe444abd29ad44ccb41c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb5012b2392cbe444abd29ad44ccb41c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eb5012b2392cbe444abd29ad44ccb41c, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_char_gringo_Anim_EnterWindow_Bake_V03
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eb5012b2392cbe444abd29ad44ccb41c, type: 3}
 --- !u!1001 &800577636
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5582,6 +5810,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 84bffe2e657d0d8429bd1622d190e017, type: 3}
   m_PrefabInstance: {fileID: 1207148110}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1212343550
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 845ee0b5046ce614db8fa3584a4951d1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 43.707954
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 845ee0b5046ce614db8fa3584a4951d1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 845ee0b5046ce614db8fa3584a4951d1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.2927165
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 845ee0b5046ce614db8fa3584a4951d1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 845ee0b5046ce614db8fa3584a4951d1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 845ee0b5046ce614db8fa3584a4951d1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 845ee0b5046ce614db8fa3584a4951d1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 845ee0b5046ce614db8fa3584a4951d1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 845ee0b5046ce614db8fa3584a4951d1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 845ee0b5046ce614db8fa3584a4951d1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 845ee0b5046ce614db8fa3584a4951d1, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_char_gringo_Anim_Die02_Bake_v003
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 845ee0b5046ce614db8fa3584a4951d1, type: 3}
 --- !u!1001 &1260365730
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7504,6 +7789,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0d0b8b1d4f4d0b44ebe2d6cf20b9661f, type: 3}
   m_PrefabInstance: {fileID: 1669547100}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1682015587
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 55e529c23b101014f9ac2c76f34e5f3f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 54.954697
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55e529c23b101014f9ac2c76f34e5f3f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55e529c23b101014f9ac2c76f34e5f3f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.6024346
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55e529c23b101014f9ac2c76f34e5f3f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55e529c23b101014f9ac2c76f34e5f3f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55e529c23b101014f9ac2c76f34e5f3f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55e529c23b101014f9ac2c76f34e5f3f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55e529c23b101014f9ac2c76f34e5f3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55e529c23b101014f9ac2c76f34e5f3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55e529c23b101014f9ac2c76f34e5f3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 55e529c23b101014f9ac2c76f34e5f3f, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_anim_gringo_running_v022
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 55e529c23b101014f9ac2c76f34e5f3f, type: 3}
 --- !u!1001 &1691947474
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7628,6 +7970,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 728bd22a8943c9041b10b4926204a84c, type: 3}
   m_PrefabInstance: {fileID: 1707364258}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1735179162
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 2798f2c41e0567246a00f425eacf1aec, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 46.6696
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2798f2c41e0567246a00f425eacf1aec, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2798f2c41e0567246a00f425eacf1aec, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.2458353
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2798f2c41e0567246a00f425eacf1aec, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2798f2c41e0567246a00f425eacf1aec, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2798f2c41e0567246a00f425eacf1aec, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2798f2c41e0567246a00f425eacf1aec, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2798f2c41e0567246a00f425eacf1aec, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2798f2c41e0567246a00f425eacf1aec, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2798f2c41e0567246a00f425eacf1aec, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2798f2c41e0567246a00f425eacf1aec, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_char_gringo_HandAttack_Bake_V02
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2798f2c41e0567246a00f425eacf1aec, type: 3}
 --- !u!1001 &1756346153
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8154,6 +8553,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1866269551}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &1890643201
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 04a2308943f99124bb1da3c8f69ad919, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 49.760605
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 04a2308943f99124bb1da3c8f69ad919, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 04a2308943f99124bb1da3c8f69ad919, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.355
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 04a2308943f99124bb1da3c8f69ad919, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 04a2308943f99124bb1da3c8f69ad919, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 04a2308943f99124bb1da3c8f69ad919, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 04a2308943f99124bb1da3c8f69ad919, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 04a2308943f99124bb1da3c8f69ad919, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 04a2308943f99124bb1da3c8f69ad919, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 04a2308943f99124bb1da3c8f69ad919, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04a2308943f99124bb1da3c8f69ad919, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_char_gringo_Anim_PunchesWindow_Bake_V02
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 04a2308943f99124bb1da3c8f69ad919, type: 3}
 --- !u!1001 &1900204197
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10330,3 +10786,11 @@ SceneRoots:
   - {fileID: 1920875033}
   - {fileID: 243003530}
   - {fileID: 1628723831}
+  - {fileID: 1682015587}
+  - {fileID: 527994335}
+  - {fileID: 499799447}
+  - {fileID: 1890643201}
+  - {fileID: 797612314}
+  - {fileID: 1735179162}
+  - {fileID: 408856865}
+  - {fileID: 1212343550}
