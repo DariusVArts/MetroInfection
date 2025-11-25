@@ -3,7 +3,12 @@ guid: 187817ab0a60fa4449b54b0d7e6030dc
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_explosiveEmpanada
+    second: {fileID: 2100000, guid: efd3d4b82e0fe894c85a5efb389d2c29, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

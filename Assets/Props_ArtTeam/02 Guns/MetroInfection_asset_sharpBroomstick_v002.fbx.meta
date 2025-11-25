@@ -3,7 +3,12 @@ guid: e5e45587f7365974e8abe422d332b27c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_sharpBroomstick
+    second: {fileID: 2100000, guid: 23ca80b3c3b57664d8b7c5ac3dd91749, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

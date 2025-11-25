@@ -3,7 +3,12 @@ guid: e25cfb2c01a332f4fbab33a87811525f
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ElectricTaser
+    second: {fileID: 2100000, guid: 407a6641b724f664682c6c15334dfa4f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

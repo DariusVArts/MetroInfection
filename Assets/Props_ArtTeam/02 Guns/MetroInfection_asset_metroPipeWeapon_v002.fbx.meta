@@ -3,7 +3,12 @@ guid: 48919d59e453ffd488571979903510fb
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_metroPipeWeapon
+    second: {fileID: 2100000, guid: fa13c1edbf62e0a43b7bb36641b1a403, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

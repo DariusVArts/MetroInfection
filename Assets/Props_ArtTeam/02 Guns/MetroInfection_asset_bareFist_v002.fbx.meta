@@ -3,7 +3,12 @@ guid: cbbe2d343f5d14f4db5e18e7124014fb
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_bareFist
+    second: {fileID: 2100000, guid: 8c076ab66f1fe6e4d89d14d9e5aa3d60, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
