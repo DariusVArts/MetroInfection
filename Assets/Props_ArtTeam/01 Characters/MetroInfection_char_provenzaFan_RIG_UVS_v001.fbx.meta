@@ -3,7 +3,12 @@ guid: 308d0cf2d7831cc47b922d788ccc949f
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_FanaticodeProvenza
+    second: {fileID: 2100000, guid: cdfb15e72b4c9a5409bd1266ff9e38a5, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

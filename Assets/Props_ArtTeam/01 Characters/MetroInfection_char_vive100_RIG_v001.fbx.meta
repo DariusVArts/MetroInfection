@@ -3,7 +3,12 @@ guid: 24a0f68d1b59486478684f3029ae69a4
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Vive100
+    second: {fileID: 2100000, guid: f8ac4cc0cd14d304da27acf3b406a733, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

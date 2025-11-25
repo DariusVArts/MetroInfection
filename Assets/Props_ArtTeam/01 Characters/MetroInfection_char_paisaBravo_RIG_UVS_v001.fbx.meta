@@ -3,7 +3,12 @@ guid: 5e688cdf9568bfd4db3859333bb22f2c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_PaisaBravo
+    second: {fileID: 2100000, guid: 33d083822aca8aa4bbc25e4a6e6705ec, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

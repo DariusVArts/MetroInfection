@@ -3,7 +3,17 @@ guid: f1e93e6933ae8314a8998d79b9b9b2a6
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Venezuelan
+    second: {fileID: 2100000, guid: 5f5908f36f21f8c4689777ee105a8b17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface1
+    second: {fileID: 2100000, guid: daf440c655933764992c90aa7f823be9, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

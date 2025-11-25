@@ -3,7 +3,12 @@ guid: a31fd8a58c3299c46b312661d84f3a52
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Bonice
+    second: {fileID: 2100000, guid: 17ed9716cc94d3a49bfe638d28dd2b4e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

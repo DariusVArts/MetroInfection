@@ -1032,7 +1032,8 @@ PrefabInstance:
       value: MetroInfection_char_venezuelan_RIG_UVS_v001
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 824083000988067331, guid: f1e93e6933ae8314a8998d79b9b9b2a6, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1e93e6933ae8314a8998d79b9b9b2a6, type: 3}
@@ -3042,6 +3043,68 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f7b22da663fd4b843a01a76a4030a338, type: 3}
   m_PrefabInstance: {fileID: 712169017}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &714028358
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1326010458}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -86
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_asset_turret_rotating_v002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+--- !u!4 &714028359 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+  m_PrefabInstance: {fileID: 714028358}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &720449961
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3165,6 +3228,68 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b169e9deb307e8444a30d1f902829b3f, type: 3}
   m_PrefabInstance: {fileID: 745400061}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &752263976
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1326010458}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ccd8e067a1e763641829fc96292e41e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -84
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ccd8e067a1e763641829fc96292e41e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ccd8e067a1e763641829fc96292e41e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ccd8e067a1e763641829fc96292e41e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ccd8e067a1e763641829fc96292e41e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ccd8e067a1e763641829fc96292e41e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ccd8e067a1e763641829fc96292e41e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ccd8e067a1e763641829fc96292e41e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ccd8e067a1e763641829fc96292e41e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ccd8e067a1e763641829fc96292e41e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ccd8e067a1e763641829fc96292e41e0, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_asset_turret_basic_v002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ccd8e067a1e763641829fc96292e41e0, type: 3}
+--- !u!4 &752263977 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ccd8e067a1e763641829fc96292e41e0, type: 3}
+  m_PrefabInstance: {fileID: 752263976}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &793589728
 GameObject:
@@ -4261,68 +4386,6 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 6b9460abc557ac9418bf779ba646653a, type: 3}
   m_PrefabInstance: {fileID: 957020030}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &960372996
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1326010458}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 10b7be26a4bf18243a5250a09d7a93d2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -86
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 10b7be26a4bf18243a5250a09d7a93d2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 10b7be26a4bf18243a5250a09d7a93d2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 10b7be26a4bf18243a5250a09d7a93d2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 10b7be26a4bf18243a5250a09d7a93d2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 10b7be26a4bf18243a5250a09d7a93d2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 10b7be26a4bf18243a5250a09d7a93d2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 10b7be26a4bf18243a5250a09d7a93d2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 10b7be26a4bf18243a5250a09d7a93d2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 10b7be26a4bf18243a5250a09d7a93d2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 10b7be26a4bf18243a5250a09d7a93d2, type: 3}
-      propertyPath: m_Name
-      value: MetroInfection_asset_turret_rotating_v001
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 10b7be26a4bf18243a5250a09d7a93d2, type: 3}
---- !u!4 &960372997 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 10b7be26a4bf18243a5250a09d7a93d2, type: 3}
-  m_PrefabInstance: {fileID: 960372996}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &960402685
 GameObject:
@@ -6292,7 +6355,8 @@ PrefabInstance:
       value: MetroInfection_char_mainCharacter_RIG_UVS_v001
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 1463591559962495726, guid: 8456f22905c50a94eb806ef199a7a1d9, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8456f22905c50a94eb806ef199a7a1d9, type: 3}
@@ -6444,8 +6508,8 @@ Transform:
   - {fileID: 1335050679}
   - {fileID: 165707550}
   - {fileID: 859900092}
-  - {fileID: 1707364259}
-  - {fileID: 960372997}
+  - {fileID: 752263977}
+  - {fileID: 714028359}
   - {fileID: 186378425}
   - {fileID: 800577637}
   - {fileID: 2087824955}
@@ -7907,68 +7971,6 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8d8d16bd06ee3fc4c90e9c5c363b62ea, type: 3}
   m_PrefabInstance: {fileID: 1691947474}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &1707364258
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1326010458}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 728bd22a8943c9041b10b4926204a84c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -84
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 728bd22a8943c9041b10b4926204a84c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 728bd22a8943c9041b10b4926204a84c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 728bd22a8943c9041b10b4926204a84c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 728bd22a8943c9041b10b4926204a84c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 728bd22a8943c9041b10b4926204a84c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 728bd22a8943c9041b10b4926204a84c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 728bd22a8943c9041b10b4926204a84c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 728bd22a8943c9041b10b4926204a84c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 728bd22a8943c9041b10b4926204a84c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 728bd22a8943c9041b10b4926204a84c, type: 3}
-      propertyPath: m_Name
-      value: MetroInfection_asset_turret_basic_v001
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 728bd22a8943c9041b10b4926204a84c, type: 3}
---- !u!4 &1707364259 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 728bd22a8943c9041b10b4926204a84c, type: 3}
-  m_PrefabInstance: {fileID: 1707364258}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1735179162
 PrefabInstance:

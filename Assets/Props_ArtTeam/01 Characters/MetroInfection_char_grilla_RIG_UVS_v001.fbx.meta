@@ -3,7 +3,12 @@ guid: a03b774e40612714799fd33ec2f3bc20
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Grilla
+    second: {fileID: 2100000, guid: 18d0ba157932aae45ae971858a6e9434, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

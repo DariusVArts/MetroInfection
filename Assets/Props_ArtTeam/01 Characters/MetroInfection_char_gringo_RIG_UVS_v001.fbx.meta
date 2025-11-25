@@ -3,7 +3,12 @@ guid: 84bffe2e657d0d8429bd1622d190e017
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Gringo
+    second: {fileID: 2100000, guid: 6d8590a8330c3a6449a1432bd05da8d4, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
