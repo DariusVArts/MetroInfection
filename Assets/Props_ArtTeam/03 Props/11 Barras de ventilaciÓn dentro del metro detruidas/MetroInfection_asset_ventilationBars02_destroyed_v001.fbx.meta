@@ -3,7 +3,12 @@ guid: 568f755cc88c39e49a2d8217988ec9fb
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_VentilationBars.001
+    second: {fileID: 2100000, guid: 22b981ab538bb5744a0a3f47e7d21be0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

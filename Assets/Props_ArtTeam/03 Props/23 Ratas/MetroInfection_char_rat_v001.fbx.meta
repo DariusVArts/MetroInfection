@@ -3,7 +3,12 @@ guid: 38505e05f9dfde74aac78d596e3df1aa
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Rat
+    second: {fileID: 2100000, guid: 66d19d3ce55b8c245a1442eaef7e4c69, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

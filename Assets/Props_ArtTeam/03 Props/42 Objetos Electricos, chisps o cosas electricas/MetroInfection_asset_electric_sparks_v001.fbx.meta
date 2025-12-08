@@ -3,7 +3,12 @@ guid: 6b9460abc557ac9418bf779ba646653a
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Electronmic
+    second: {fileID: 2100000, guid: 689de97686ab2264f9929dfbd3fbada7, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

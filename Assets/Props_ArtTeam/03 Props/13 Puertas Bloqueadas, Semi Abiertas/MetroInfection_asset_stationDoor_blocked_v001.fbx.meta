@@ -3,7 +3,12 @@ guid: 40a1f56ca2a84974398d24388f57b1ec
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_BrokenDoor
+    second: {fileID: 2100000, guid: 33f1971750aedae46a89c590fa0907d5, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

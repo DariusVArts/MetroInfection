@@ -3,7 +3,12 @@ guid: 93e548767bc389d409c0d2788608543e
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_TrackAndBarriers
+    second: {fileID: 2100000, guid: 1bd7c07607903f74780865483b023ebd, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

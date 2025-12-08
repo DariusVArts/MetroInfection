@@ -3,7 +3,12 @@ guid: f7b22da663fd4b843a01a76a4030a338
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SecurityCamera
+    second: {fileID: 2100000, guid: 43369be5f276a1442b607ff2af2d9b21, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -167,6 +167,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 58c6e38732573e643bbc8e6e7d708436, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c8afebe036ec8914c9342e21b4ea9e0d, type: 2}
     - target: {fileID: 919132149155446097, guid: 58c6e38732573e643bbc8e6e7d708436, type: 3}
       propertyPath: m_Name
       value: MetroInfection_env_standardBuildings3_v001
@@ -229,6 +233,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 688c33be42658ba4abf7ca6e3e2dbe92, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 43369be5f276a1442b607ff2af2d9b21, type: 2}
     - target: {fileID: 919132149155446097, guid: 688c33be42658ba4abf7ca6e3e2dbe92, type: 3}
       propertyPath: m_Name
       value: MetroInfection_prop_securityCamera_broken
@@ -243,6 +251,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 688c33be42658ba4abf7ca6e3e2dbe92, type: 3}
   m_PrefabInstance: {fileID: 39233924}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &44641207
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 5b9fdd1ffe7f1164f89384038522d7c8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 49.5543
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5b9fdd1ffe7f1164f89384038522d7c8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5b9fdd1ffe7f1164f89384038522d7c8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5b9fdd1ffe7f1164f89384038522d7c8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5b9fdd1ffe7f1164f89384038522d7c8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5b9fdd1ffe7f1164f89384038522d7c8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5b9fdd1ffe7f1164f89384038522d7c8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5b9fdd1ffe7f1164f89384038522d7c8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5b9fdd1ffe7f1164f89384038522d7c8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5b9fdd1ffe7f1164f89384038522d7c8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5b9fdd1ffe7f1164f89384038522d7c8, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_anim_mainCharacter_attack_shield_v001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5b9fdd1ffe7f1164f89384038522d7c8, type: 3}
 --- !u!1001 &66605060
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -415,6 +480,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 60b5b71c1b06b884d8864b8ba1ef72f7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b6e8fa8764668d34397c00c71580fd93, type: 2}
     - target: {fileID: 919132149155446097, guid: 60b5b71c1b06b884d8864b8ba1ef72f7, type: 3}
       propertyPath: m_Name
       value: MetroInfection_asset_vegetation_overgrown02_v001
@@ -477,6 +546,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1f3223138ecfe944287d876f8bdaf816, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c8afebe036ec8914c9342e21b4ea9e0d, type: 2}
     - target: {fileID: 919132149155446097, guid: 1f3223138ecfe944287d876f8bdaf816, type: 3}
       propertyPath: m_Name
       value: MetroInfection_env_standardBuildings4_v001
@@ -725,6 +798,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 0121bdadc5d0d4f4088030d163ace537, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7696acb3798d3e542b6e07fa8220d8a2, type: 2}
     - target: {fileID: 919132149155446097, guid: 0121bdadc5d0d4f4088030d163ace537, type: 3}
       propertyPath: m_Name
       value: MetroInfection_asset_powerTower_tilted_02_v001
@@ -1104,6 +1181,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 1a68d8e26d7e25f4f8c25a7631d98e45, type: 3}
   m_PrefabInstance: {fileID: 263525079}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &276457699
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 89029df89dc4e6a419d14e7238c8e70e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 51.941364
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 89029df89dc4e6a419d14e7238c8e70e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 89029df89dc4e6a419d14e7238c8e70e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 89029df89dc4e6a419d14e7238c8e70e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 89029df89dc4e6a419d14e7238c8e70e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 89029df89dc4e6a419d14e7238c8e70e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 89029df89dc4e6a419d14e7238c8e70e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 89029df89dc4e6a419d14e7238c8e70e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 89029df89dc4e6a419d14e7238c8e70e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 89029df89dc4e6a419d14e7238c8e70e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 89029df89dc4e6a419d14e7238c8e70e, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_anim_mainCharacter_attack_machete_v001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 89029df89dc4e6a419d14e7238c8e70e, type: 3}
 --- !u!1001 &283709829
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1400,6 +1534,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 53c30f4d31b414d4d9b251eecb3edc72, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2b310d1a4bd02be4496804981dbd0a3c, type: 2}
     - target: {fileID: 919132149155446097, guid: 53c30f4d31b414d4d9b251eecb3edc72, type: 3}
       propertyPath: m_Name
       value: MetroInfection_prop_sodaBottle_empty02
@@ -1643,6 +1781,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 87aec1d101d7297458263cc41e55748a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: aba1cb7339667a4428298896c2e0cb20, type: 2}
     - target: {fileID: 919132149155446097, guid: 87aec1d101d7297458263cc41e55748a, type: 3}
       propertyPath: m_Name
       value: MetroInfection_asset_garbagePile02_v001
@@ -1742,6 +1884,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4379849aa447705438b40baf03a4fb0b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 21b3448baae9b8a47b94ddb47d67067d, type: 2}
     - target: {fileID: 919132149155446097, guid: 4379849aa447705438b40baf03a4fb0b, type: 3}
       propertyPath: m_Name
       value: MetroInfection_prop_backpack_military_v001
@@ -2055,6 +2201,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cbad137a8c7472442be49b5cb557bc70, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 21b3448baae9b8a47b94ddb47d67067d, type: 2}
     - target: {fileID: 919132149155446097, guid: cbad137a8c7472442be49b5cb557bc70, type: 3}
       propertyPath: m_Name
       value: MetroInfection_prop_backpack_normal_v001
@@ -2239,6 +2389,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 575893604}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &580213075
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: d37b1ea0ef8abc847877bb1a1ffa344f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 56.91
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d37b1ea0ef8abc847877bb1a1ffa344f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0000009536743
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d37b1ea0ef8abc847877bb1a1ffa344f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d37b1ea0ef8abc847877bb1a1ffa344f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d37b1ea0ef8abc847877bb1a1ffa344f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d37b1ea0ef8abc847877bb1a1ffa344f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d37b1ea0ef8abc847877bb1a1ffa344f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d37b1ea0ef8abc847877bb1a1ffa344f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d37b1ea0ef8abc847877bb1a1ffa344f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d37b1ea0ef8abc847877bb1a1ffa344f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d37b1ea0ef8abc847877bb1a1ffa344f, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_anim_mainCharacter_meleeHit_tube_v001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d37b1ea0ef8abc847877bb1a1ffa344f, type: 3}
 --- !u!1001 &591513921
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2349,6 +2556,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 52b9f01ce73cc364dbb7edd227b2c780, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 789d7e026c1efe0438ed0cfc83a5d044, type: 2}
     - target: {fileID: 919132149155446097, guid: 52b9f01ce73cc364dbb7edd227b2c780, type: 3}
       propertyPath: m_Name
       value: MetroInfection_asset_floor_brokenLifted_03_v001
@@ -2734,6 +2945,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6e02966823ada7a48b956f596f623c06, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 053f2f17915715e48b58687524e45a8c, type: 2}
     - target: {fileID: 919132149155446097, guid: 6e02966823ada7a48b956f596f623c06, type: 3}
       propertyPath: m_Name
       value: MetroInfection_env_alpujarraBuilding_v001
@@ -2981,6 +3196,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 35e16e1388b5f31419d59798f61b0886, type: 3}
   m_PrefabInstance: {fileID: 706801581}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &712096929
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 9829093983554c34daf8b2fd7fd8527a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 54.449192
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9829093983554c34daf8b2fd7fd8527a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000047683716
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9829093983554c34daf8b2fd7fd8527a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9829093983554c34daf8b2fd7fd8527a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9829093983554c34daf8b2fd7fd8527a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9829093983554c34daf8b2fd7fd8527a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9829093983554c34daf8b2fd7fd8527a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9829093983554c34daf8b2fd7fd8527a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9829093983554c34daf8b2fd7fd8527a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9829093983554c34daf8b2fd7fd8527a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9829093983554c34daf8b2fd7fd8527a, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_anim_mainCharacter_throw_explosiveEmpanada_v002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9829093983554c34daf8b2fd7fd8527a, type: 3}
 --- !u!1001 &712169017
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3091,10 +3363,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4891586347326797663, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 15468f513d2612144bb1abe2b763b70b, type: 2}
+    - target: {fileID: -2599545793813564371, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 15468f513d2612144bb1abe2b763b70b, type: 2}
+    - target: {fileID: -2588475534845912546, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 15468f513d2612144bb1abe2b763b70b, type: 2}
     - target: {fileID: 919132149155446097, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
       propertyPath: m_Name
       value: MetroInfection_asset_turret_rotating_v002
       objectReference: {fileID: 0}
+    - target: {fileID: 4171580474464605429, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 15468f513d2612144bb1abe2b763b70b, type: 2}
+    - target: {fileID: 4865159591747640868, guid: 16d16591d20e30a47a5e23cae487913d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 15468f513d2612144bb1abe2b763b70b, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3215,6 +3507,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6437665961535613033, guid: b169e9deb307e8444a30d1f902829b3f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a72ef7ce55b65e34c8c8bdde79816059, type: 2}
+    - target: {fileID: -3726647046782998936, guid: b169e9deb307e8444a30d1f902829b3f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a72ef7ce55b65e34c8c8bdde79816059, type: 2}
+    - target: {fileID: -1165909664378720926, guid: b169e9deb307e8444a30d1f902829b3f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a72ef7ce55b65e34c8c8bdde79816059, type: 2}
     - target: {fileID: 919132149155446097, guid: b169e9deb307e8444a30d1f902829b3f, type: 3}
       propertyPath: m_Name
       value: MetroInfection_asset_carnivorousPlant_v001
@@ -3691,6 +3995,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 73c8824ff91c60c48b7b38b75851f6d2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b6e8fa8764668d34397c00c71580fd93, type: 2}
     - target: {fileID: 919132149155446097, guid: 73c8824ff91c60c48b7b38b75851f6d2, type: 3}
       propertyPath: m_Name
       value: MetroInfection_asset_vegetation_overgrown04_v001
@@ -3753,6 +4061,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 72e45124a0dd84840862cf5afa8d9c0a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 323cfda715c6c6e47a71c4735f2ad997, type: 2}
     - target: {fileID: 919132149155446097, guid: 72e45124a0dd84840862cf5afa8d9c0a, type: 3}
       propertyPath: m_Name
       value: MetroInfection_prop_mobileDevice02_v001
@@ -3891,6 +4203,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8f1cc690299ffb84cb240402577b9b12, type: 3}
   m_PrefabInstance: {fileID: 859900091}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &864824953
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 973587086909f5746852e7925bfe6c11, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 973587086909f5746852e7925bfe6c11, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 973587086909f5746852e7925bfe6c11, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 973587086909f5746852e7925bfe6c11, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 973587086909f5746852e7925bfe6c11, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 973587086909f5746852e7925bfe6c11, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 973587086909f5746852e7925bfe6c11, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 973587086909f5746852e7925bfe6c11, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 973587086909f5746852e7925bfe6c11, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 973587086909f5746852e7925bfe6c11, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 973587086909f5746852e7925bfe6c11, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_anim_mainCharacter_reloadShotgun_v001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 973587086909f5746852e7925bfe6c11, type: 3}
 --- !u!1001 &875098691
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4063,6 +4432,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: d0006d0d3725e6f4996f0843ebd3a042, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d6686014c78e4ce4fa27667a7533ba98, type: 2}
     - target: {fileID: 919132149155446097, guid: d0006d0d3725e6f4996f0843ebd3a042, type: 3}
       propertyPath: m_Name
       value: MetroInfection_prop_can_and_crushedCan_v001
@@ -4139,6 +4512,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 184425a39ee27fe438aab3acc0b44630, type: 3}
   m_PrefabInstance: {fileID: 901758994}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &905950200
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 05c977487af02ca4ca63741ea227fa6a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 46.93
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05c977487af02ca4ca63741ea227fa6a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05c977487af02ca4ca63741ea227fa6a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05c977487af02ca4ca63741ea227fa6a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05c977487af02ca4ca63741ea227fa6a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05c977487af02ca4ca63741ea227fa6a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05c977487af02ca4ca63741ea227fa6a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05c977487af02ca4ca63741ea227fa6a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05c977487af02ca4ca63741ea227fa6a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 05c977487af02ca4ca63741ea227fa6a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 05c977487af02ca4ca63741ea227fa6a, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_anim_mainCharacter_shoot_shotgun_v001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 05c977487af02ca4ca63741ea227fa6a, type: 3}
 --- !u!1001 &911837559
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5062,6 +5492,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 25b921537c7d3494f8f832d4ba63cc4d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 14f1564f0f2831e4a989ee636f4840bc, type: 2}
     - target: {fileID: 919132149155446097, guid: 25b921537c7d3494f8f832d4ba63cc4d, type: 3}
       propertyPath: m_Name
       value: MetroInfection_asset_ceilingLight01_broken_v001
@@ -5248,6 +5682,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5356512b8600de04eb2f7b368a42a492, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b1d6a5612827f5e4e8010b984df3e380, type: 2}
     - target: {fileID: 919132149155446097, guid: 5356512b8600de04eb2f7b368a42a492, type: 3}
       propertyPath: m_Name
       value: MetroInfection_env_bridge_collapsed01_v001
@@ -5310,6 +5748,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 7a230feaabf206a4a834c7d87fc5eab7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3909d14b0a35c1d479b03cc0db03c3c8, type: 2}
     - target: {fileID: 919132149155446097, guid: 7a230feaabf206a4a834c7d87fc5eab7, type: 3}
       propertyPath: m_Name
       value: MetroInfection_prop_foodWrapper_02_typeA_v001
@@ -5620,6 +6062,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: bce323a2b50814e49b79a1dfdd642599, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: aba1cb7339667a4428298896c2e0cb20, type: 2}
     - target: {fileID: 919132149155446097, guid: bce323a2b50814e49b79a1dfdd642599, type: 3}
       propertyPath: m_Name
       value: MetroInfection_asset_garbagePile03_v001
@@ -5992,6 +6438,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: cbbe2d343f5d14f4db5e18e7124014fb, type: 3}
   m_PrefabInstance: {fileID: 1260365730}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1274161786
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: bcc59c7750d575d48a20ccad512ec451, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 45.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bcc59c7750d575d48a20ccad512ec451, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bcc59c7750d575d48a20ccad512ec451, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bcc59c7750d575d48a20ccad512ec451, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bcc59c7750d575d48a20ccad512ec451, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bcc59c7750d575d48a20ccad512ec451, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bcc59c7750d575d48a20ccad512ec451, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bcc59c7750d575d48a20ccad512ec451, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bcc59c7750d575d48a20ccad512ec451, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bcc59c7750d575d48a20ccad512ec451, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bcc59c7750d575d48a20ccad512ec451, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_anim_mainCharacter_reloadWeapon_v001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bcc59c7750d575d48a20ccad512ec451, type: 3}
 --- !u!1001 &1281953065
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6413,6 +6916,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 568f755cc88c39e49a2d8217988ec9fb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b098448d2829e88418d13cb1d65ba8ce, type: 2}
     - target: {fileID: 919132149155446097, guid: 568f755cc88c39e49a2d8217988ec9fb, type: 3}
       propertyPath: m_Name
       value: MetroInfection_asset_ventilationBars02_destroyed_v001
@@ -6581,6 +7088,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c19cdb216d2c7cf45a1356486a3c9e1a, type: 3}
   m_PrefabInstance: {fileID: 1335050678}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1342453800
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 4a8954ba5e361e44a9033c376b823bfc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 48.223656
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a8954ba5e361e44a9033c376b823bfc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a8954ba5e361e44a9033c376b823bfc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a8954ba5e361e44a9033c376b823bfc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a8954ba5e361e44a9033c376b823bfc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a8954ba5e361e44a9033c376b823bfc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a8954ba5e361e44a9033c376b823bfc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a8954ba5e361e44a9033c376b823bfc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a8954ba5e361e44a9033c376b823bfc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a8954ba5e361e44a9033c376b823bfc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4a8954ba5e361e44a9033c376b823bfc, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_anim_mainCharacter_shoot_pistol_taser_v001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4a8954ba5e361e44a9033c376b823bfc, type: 3}
 --- !u!1001 &1343972559
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6753,6 +7317,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ef9d3d1c33312b4478e72ec710a185a5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3909d14b0a35c1d479b03cc0db03c3c8, type: 2}
     - target: {fileID: 919132149155446097, guid: ef9d3d1c33312b4478e72ec710a185a5, type: 3}
       propertyPath: m_Name
       value: MetroInfection_prop_foodWrapper_03_typeA_v001
@@ -6815,6 +7383,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 51c053c117ee4e6458cc370d653c81af, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 438bc2fde7b5c364fb2ef20ba7e5672a, type: 2}
     - target: {fileID: 919132149155446097, guid: 51c053c117ee4e6458cc370d653c81af, type: 3}
       propertyPath: m_Name
       value: MetroInfection_env_standardBuildings5_v001
@@ -7248,6 +7820,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ea55d5a9c1f07ef4a869e1d505d0ea15, type: 3}
   m_PrefabInstance: {fileID: 1478938596}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1481797730
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 9299e6334fb30f54b90e4c24ee451e6f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 50.691765
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9299e6334fb30f54b90e4c24ee451e6f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000047683716
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9299e6334fb30f54b90e4c24ee451e6f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9299e6334fb30f54b90e4c24ee451e6f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9299e6334fb30f54b90e4c24ee451e6f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9299e6334fb30f54b90e4c24ee451e6f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9299e6334fb30f54b90e4c24ee451e6f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9299e6334fb30f54b90e4c24ee451e6f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9299e6334fb30f54b90e4c24ee451e6f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9299e6334fb30f54b90e4c24ee451e6f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9299e6334fb30f54b90e4c24ee451e6f, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_anim_mainCharacter_shieldBlock_v001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9299e6334fb30f54b90e4c24ee451e6f, type: 3}
 --- !u!1001 &1494709751
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7296,6 +7925,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 839806eee6813dd4dbdfa51652cbc8a3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b6e8fa8764668d34397c00c71580fd93, type: 2}
     - target: {fileID: 919132149155446097, guid: 839806eee6813dd4dbdfa51652cbc8a3, type: 3}
       propertyPath: m_Name
       value: MetroInfection_asset_vegetation_overgrown03_v001
@@ -7420,6 +8053,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1493ae59f6518cc4caf1b0f067e10028, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 95a1f869ee7868a4789314090f568e51, type: 2}
     - target: {fileID: 919132149155446097, guid: 1493ae59f6518cc4caf1b0f067e10028, type: 3}
       propertyPath: m_Name
       value: MetroInfection_asset_car_destroyed_v001
@@ -7729,6 +8366,120 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c677b6582857c464395143e6d6ce85c4, type: 3}
   m_PrefabInstance: {fileID: 1631851148}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1634404589
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 2a37a93f85f6c3c43b223ec3cf9d55a2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 55.610504
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2a37a93f85f6c3c43b223ec3cf9d55a2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2a37a93f85f6c3c43b223ec3cf9d55a2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2a37a93f85f6c3c43b223ec3cf9d55a2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2a37a93f85f6c3c43b223ec3cf9d55a2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2a37a93f85f6c3c43b223ec3cf9d55a2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2a37a93f85f6c3c43b223ec3cf9d55a2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2a37a93f85f6c3c43b223ec3cf9d55a2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2a37a93f85f6c3c43b223ec3cf9d55a2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2a37a93f85f6c3c43b223ec3cf9d55a2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2a37a93f85f6c3c43b223ec3cf9d55a2, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_anim_mainCharacter_punch_10
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a37a93f85f6c3c43b223ec3cf9d55a2, type: 3}
+--- !u!1001 &1640945596
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 73a864696d677c649a13f741c22a70a8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 53.19994
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73a864696d677c649a13f741c22a70a8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73a864696d677c649a13f741c22a70a8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73a864696d677c649a13f741c22a70a8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73a864696d677c649a13f741c22a70a8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73a864696d677c649a13f741c22a70a8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73a864696d677c649a13f741c22a70a8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73a864696d677c649a13f741c22a70a8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73a864696d677c649a13f741c22a70a8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 73a864696d677c649a13f741c22a70a8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 73a864696d677c649a13f741c22a70a8, type: 3}
+      propertyPath: m_Name
+      value: MetroInfection_anim_mainCharacter_attack_broom_v001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73a864696d677c649a13f741c22a70a8, type: 3}
 --- !u!1001 &1656967453
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7777,6 +8528,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 89eb5279cb9ddb149abce25a77faa9b6, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8308d29b0cc993742ad6f31fd6a30898, type: 2}
     - target: {fileID: 919132149155446097, guid: 89eb5279cb9ddb149abce25a77faa9b6, type: 3}
       propertyPath: m_Name
       value: MetroInfection_env_tree_growingInConcrete_v001 (1)
@@ -7958,6 +8713,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 8d8d16bd06ee3fc4c90e9c5c363b62ea, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3d3f966f7be40c74892e15f771a32f22, type: 2}
     - target: {fileID: 919132149155446097, guid: 8d8d16bd06ee3fc4c90e9c5c363b62ea, type: 3}
       propertyPath: m_Name
       value: MetroInfection_env_standardBuildings2_v001
@@ -8077,6 +8836,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b29714c612906a94c8e185034fe8a101, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 14f1564f0f2831e4a989ee636f4840bc, type: 2}
     - target: {fileID: 919132149155446097, guid: b29714c612906a94c8e185034fe8a101, type: 3}
       propertyPath: m_Name
       value: MetroInfection_asset_ceilingLight02_broken_v001
@@ -8139,6 +8902,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 3f5af69da1d841a4bbc59327be6ff2cf, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 789d7e026c1efe0438ed0cfc83a5d044, type: 2}
     - target: {fileID: 919132149155446097, guid: 3f5af69da1d841a4bbc59327be6ff2cf, type: 3}
       propertyPath: m_Name
       value: MetroInfection_asset_floor_brokenLifted_02_v001
@@ -8433,6 +9200,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: e01a6db4788201343b80cd7d44576489, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e02e4dc41c6a39844ac832c9f6a66eeb, type: 2}
     - target: {fileID: 919132149155446097, guid: e01a6db4788201343b80cd7d44576489, type: 3}
       propertyPath: m_Name
       value: MetroInfection_env_tree_growingInConcrete_v001
@@ -8865,6 +9636,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ebbc1c0385a42c844b52abba44cda621, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: dd741f9d90d106944a6dd57a1d19eb20, type: 2}
     - target: {fileID: 919132149155446097, guid: ebbc1c0385a42c844b52abba44cda621, type: 3}
       propertyPath: m_Name
       value: MetroInfection_env_destroyedBuildings01_v001
@@ -9346,6 +10121,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cb44aa0c3dce43a4fb13c85bfd8a7756, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 22b981ab538bb5744a0a3f47e7d21be0, type: 2}
     - target: {fileID: 919132149155446097, guid: cb44aa0c3dce43a4fb13c85bfd8a7756, type: 3}
       propertyPath: m_Name
       value: MetroInfection_asset_ventilationBars01_destroyed_v001
@@ -9408,6 +10187,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 44aaeb44a03c72f41a6a7034f74fcbac, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: dd741f9d90d106944a6dd57a1d19eb20, type: 2}
     - target: {fileID: 919132149155446097, guid: 44aaeb44a03c72f41a6a7034f74fcbac, type: 3}
       propertyPath: m_Name
       value: MetroInfection_env_destroyedBuildings02_v001
@@ -10796,3 +11579,14 @@ SceneRoots:
   - {fileID: 1735179162}
   - {fileID: 408856865}
   - {fileID: 1212343550}
+  - {fileID: 580213075}
+  - {fileID: 1634404589}
+  - {fileID: 712096929}
+  - {fileID: 1640945596}
+  - {fileID: 276457699}
+  - {fileID: 1481797730}
+  - {fileID: 44641207}
+  - {fileID: 1342453800}
+  - {fileID: 905950200}
+  - {fileID: 1274161786}
+  - {fileID: 864824953}

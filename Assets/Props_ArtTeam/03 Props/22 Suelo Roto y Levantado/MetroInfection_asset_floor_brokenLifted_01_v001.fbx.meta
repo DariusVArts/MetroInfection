@@ -3,7 +3,12 @@ guid: 9c6e349a3267d3443b321fd12de5a8ff
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_BrokenLifted
+    second: {fileID: 2100000, guid: 789d7e026c1efe0438ed0cfc83a5d044, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

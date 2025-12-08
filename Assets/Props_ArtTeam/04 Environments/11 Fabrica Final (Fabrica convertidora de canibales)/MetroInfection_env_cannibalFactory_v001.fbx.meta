@@ -3,7 +3,12 @@ guid: 65fafd93ff65f23429c130934c28efb5
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CannibalFactory
+    second: {fileID: 2100000, guid: d838b8f13cedfd54a907a8cfa5bd32b2, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

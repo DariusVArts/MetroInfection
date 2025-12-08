@@ -3,7 +3,12 @@ guid: ba24a829a14c5c143945a4a44e5de762
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_TrapNail
+    second: {fileID: 2100000, guid: 8a3f9f9ccf4fffb43b25400d7b497c1c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

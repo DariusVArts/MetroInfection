@@ -3,7 +3,12 @@ guid: e1221ebbb83cf74479782c6bd1ffa16e
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_FoodWrapper
+    second: {fileID: 2100000, guid: 3909d14b0a35c1d479b03cc0db03c3c8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

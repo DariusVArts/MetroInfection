@@ -3,7 +3,12 @@ guid: 67a4ebeef293a114fb6729ae23f5aca3
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_PerpetuoSocorroChurch
+    second: {fileID: 2100000, guid: d90a49c3b6a343e49970fff79d5971fa, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

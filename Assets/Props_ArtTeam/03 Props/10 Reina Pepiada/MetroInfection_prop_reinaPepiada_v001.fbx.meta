@@ -3,7 +3,12 @@ guid: 0d40ff454a1e246449069ec86c1e363e
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ReinaPepiada
+    second: {fileID: 2100000, guid: b28b4b254410049458e24d1ce7f2cc05, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

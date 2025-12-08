@@ -3,7 +3,12 @@ guid: 6a178094a171ee645a065b2da010a4e7
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_BandejaPaisa
+    second: {fileID: 2100000, guid: c1274aba1dcb27d44b249815c46a2db5, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

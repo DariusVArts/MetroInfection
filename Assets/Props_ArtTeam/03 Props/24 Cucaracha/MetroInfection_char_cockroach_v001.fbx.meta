@@ -3,7 +3,12 @@ guid: 717a3537c1c9eff459525e2e52838e20
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cockroach
+    second: {fileID: 2100000, guid: 1f22dd28420f7664384e52b847417da8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

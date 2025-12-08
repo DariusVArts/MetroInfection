@@ -3,7 +3,12 @@ guid: fce6626610afd7349a3c4ded023385e5
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_PowerTower
+    second: {fileID: 2100000, guid: 7696acb3798d3e542b6e07fa8220d8a2, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

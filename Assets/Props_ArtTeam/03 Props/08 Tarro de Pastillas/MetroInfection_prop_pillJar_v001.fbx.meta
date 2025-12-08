@@ -3,7 +3,12 @@ guid: 09162320bbf729842bd033d8c61fb5a7
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_PillJar
+    second: {fileID: 2100000, guid: 607aadd41162b4d4da9c5f864b95c8be, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

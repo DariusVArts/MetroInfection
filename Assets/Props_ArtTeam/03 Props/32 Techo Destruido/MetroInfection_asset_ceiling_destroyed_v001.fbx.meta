@@ -3,7 +3,12 @@ guid: d470ba62123a34241b875e86a17d6b2d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CeillingDestroyed
+    second: {fileID: 2100000, guid: cc3dcef225d47ce428a5f2a46ff70734, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

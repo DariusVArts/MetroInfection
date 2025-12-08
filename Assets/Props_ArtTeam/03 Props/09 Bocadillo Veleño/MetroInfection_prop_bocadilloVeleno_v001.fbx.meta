@@ -3,7 +3,12 @@ guid: c677b6582857c464395143e6d6ce85c4
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Bocadillo
+    second: {fileID: 2100000, guid: 6deba5fe3cd8ec449a234e9650fc07bb, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

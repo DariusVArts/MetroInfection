@@ -3,7 +3,12 @@ guid: fe3da7333ac6343479967f94e1268858
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ColtejerBuilder
+    second: {fileID: 2100000, guid: 1a09e47c9ba84e640850bd17e0eb1807, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
